@@ -564,7 +564,7 @@ body{
         justify-content: center;
         text-align: center;
         background-color: rgb(255, 255, 221);
-        width: 300px;
+        width: 340px;
         height: 280px;
         border-radius: 50px;
         margin-left: -260px;
@@ -666,9 +666,9 @@ body{
         padding: 0;
         color: rgb(242, 242, 0);
         margin-left: -340px;
-        font-size: 7.8px;
+        font-size: 8px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        width: 342px;
+        width: 349px;
     }
     
     .contenedorDexter{
@@ -731,9 +731,9 @@ body{
         padding: 0;
         color: rgb(242, 242, 0);
         margin-left: -343px;
-        font-size: 6.5px;
+        font-size: 6.7px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        width: 352px;
+        width: 355px;
     }
 
     .contenedorHulck{
