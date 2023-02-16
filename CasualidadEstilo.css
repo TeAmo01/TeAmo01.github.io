@@ -152,3 +152,176 @@ body{
     overflow-y: auto;
 }
 
+
+@media(max-width: 500px){
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box
+    }
+    
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .contenedorPanel1{
+        display: flex;
+        height: 1350px;
+        background-color: rgb(13, 5, 105);
+        width: 360px;
+    }
+    
+    .TituliPanel1{
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        height: 30px;
+        width: 340px;
+        font-size: 11px;
+        margin-left: 10px;
+        margin-top: 45px;
+        color: aliceblue;
+    }
+    
+    
+    .Rpregunta1{
+        display: flex;
+        background-color: burlywood;
+        width: 340px;
+        height: 550px;
+        margin-top: 150px;
+        margin-left: -340px;
+        border-radius: 55px;
+    }
+    
+    .labelRpregunta1{
+        text-align: center;
+        width: 340px;
+        margin-top: 8px;
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: center;
+        color: black;
+        font-weight: bold;
+        font-size: 11px;
+    }
+    
+    .audiplay{
+        height: 22px;
+        margin-top: 100px;
+        margin-left: -320px;
+    }
+    
+    .galeria{
+        display: flex;
+        margin-top: 730px;
+        margin-left: -350px;
+        background-color: rgb(13, 5, 105);
+        height: 260px;
+        width: 360px;
+    }
+    
+    
+    
+    .listaImagenesConenedorP1 img{
+        width: 100%;
+        object-fit: cover;
+        width: 360px;
+        height: 270px;
+        margin-right: 15px;
+    }
+    
+    .listaImagenesConenedorP1{
+        display: flex;
+        overflow-y: auto;
+    }
+    
+    .contenedorVideo{
+        display: flex;
+        margin-top: 1000px;
+        margin-left: -360px;
+        width: 360px;
+        overflow-y: auto;
+        height: 270px;
+    }
+
+    .contenedorVideo video{
+        width: 100%;
+        object-fit: cover;
+        width: 360px;
+        height: 270px;
+        margin-right: 15px;
+    }
+    
+    .contenedorPanel2{
+        display: flex;
+        height: 7800px;
+        background-color: rgb(13, 5, 105);
+        width: 360px;
+    }
+    
+    .TituliPanel2{
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 340px;
+        font-size: 11px;
+        margin-left: 10px;
+        margin-top: 15px;
+        color: aliceblue;
+    }
+    
+    
+    .Rpregunta2{
+        display: flex;
+        background-color: burlywood;
+        width: 340px;
+        height: 535px;
+        margin-top: 105px;
+        margin-left: -340px;
+        border-radius: 55px;
+    }
+    
+    .labelRpregunta2{
+        margin-top: 8px;
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: center;
+        color: black;
+        font-weight: bold;
+        font-size: 11px;
+    }
+    
+    .audiplay2{
+        height: 22px;
+        margin-top: 60px;
+        margin-left: -320px;
+    }
+    
+    
+    .galeria2{
+        display: flex;
+        margin-top: 730px;
+        margin-left: -350px;
+        background-color: rgb(13, 5, 105);
+        height: 260px;
+        width: 360px;
+    }
+    
+    
+    
+    .listaImagenesConenedorP2 img{
+        width: 100%;
+        object-fit: cover;
+        width: 360px;
+        height: 260px;
+        margin-right: 15px;
+    }
+    
+    .listaImagenesConenedorP2{
+        display: flex;
+        overflow-y: auto;
+    }
+
+}
+
