@@ -256,7 +256,7 @@ body{
     
     .contenedorPanel2{
         display: flex;
-        height: 7800px;
+        height: 1000px;
         background-color: rgb(13, 5, 105);
         width: 360px;
     }
@@ -324,4 +324,5 @@ body{
     }
 
 }
+
 
