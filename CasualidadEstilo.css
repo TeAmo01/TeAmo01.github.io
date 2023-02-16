@@ -58,14 +58,17 @@ body{
     display: flex;
     margin-top: 430px;
     margin-left: -1449px;
-    background-color: rgb(13, 5, 105);
-    height: 287px;
+    background-color: black;
+    height: 310px;
     width: 100%;
 }
 
 
 
 .listaImagenesConenedorP1 img{
+    margin-left: 10px;
+    border-radius: 25px;
+    margin-top: 15px;
     width: 100%;
     object-fit: cover;
     width: 2000px;
@@ -79,10 +82,15 @@ body{
 }
 
 .contenedorVideo{
+    background-color: black;
     display: flex;
-    margin-top: 750px;
-    margin-left: -1510px;
+    margin-top: 760px;
+    margin-left: -1519.19px;
     width: 100%;
+}
+
+.contenedorVideo video{
+    margin-top: 25px;
 }
 
 .contenedorPanel2{
@@ -98,7 +106,7 @@ body{
     width: 1300px;
     font-size: 25px;
     margin-left: 150px;
-    margin-top: 15px;
+    margin-top: 20px;
     color: aliceblue;
 }
 
@@ -133,14 +141,16 @@ body{
     display: flex;
     margin-top: 340px;
     margin-left: -1449px;
-    background-color: rgb(13, 5, 105);
-    height: 405px;
+    background-color: black;
+    height: 430px;
     width: 100%;
 }
 
 
 
 .listaImagenesConenedorP2 img{
+    margin-top: 15px;
+    border-radius: 25px;
     width: 100%;
     object-fit: cover;
     width: 2000px;
@@ -218,14 +228,15 @@ body{
         display: flex;
         margin-top: 730px;
         margin-left: -350px;
-        background-color: rgb(13, 5, 105);
-        height: 260px;
+        background-color: black;
+        height: 300px;
         width: 360px;
     }
     
     
     
     .listaImagenesConenedorP1 img{
+        border-radius: 15px;
         width: 100%;
         object-fit: cover;
         width: 360px;
@@ -240,14 +251,16 @@ body{
     
     .contenedorVideo{
         display: flex;
-        margin-top: 1000px;
+        margin-top: 1050px;
         margin-left: -360px;
         width: 360px;
         overflow-y: auto;
-        height: 270px;
+        height: 310px;
     }
 
     .contenedorVideo video{
+        border-radius: 25px;
+        margin-top: 15px;
         width: 100%;
         object-fit: cover;
         width: 360px;
@@ -257,7 +270,7 @@ body{
     
     .contenedorPanel2{
         display: flex;
-        height: 1000px;
+        height: 1050px;
         background-color: rgb(13, 5, 105);
         width: 360px;
     }
@@ -268,7 +281,7 @@ body{
         width: 340px;
         font-size: 11px;
         margin-left: 10px;
-        margin-top: 15px;
+        margin-top: 25px;
         color: aliceblue;
     }
     
@@ -278,7 +291,7 @@ body{
         background-color: burlywood;
         width: 340px;
         height: 535px;
-        margin-top: 105px;
+        margin-top: 125px;
         margin-left: -340px;
         border-radius: 55px;
     }
@@ -295,17 +308,17 @@ body{
     
     .audiplay2{
         height: 22px;
-        margin-top: 60px;
+        margin-top: 80px;
         margin-left: -320px;
     }
     
     
     .galeria2{
         display: flex;
-        margin-top: 730px;
+        margin-top: 710px;
         margin-left: -350px;
-        background-color: rgb(13, 5, 105);
-        height: 260px;
+        background-color: black;
+        height: 290px;
         width: 360px;
     }
     
