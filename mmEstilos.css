@@ -424,7 +424,7 @@ body{
         margin-left: -350px;
         background-color: black;
         height: 415px;
-        width: 360px;
+        width: 361px;
     }
     
     
@@ -474,7 +474,7 @@ body{
         margin-left: -353px;
         background-color: black;
         height: 415px;
-        width: 360px;
+        width: 361px;
     }
     
     
@@ -522,7 +522,7 @@ body{
         margin-left: -350px;
         background-color: black;
         height: 415px;
-        width: 100%;
+        width: 361px;
     }
     
     
@@ -544,33 +544,33 @@ body{
     
     
     .conT4{
-        margin-left: -349px;
+        margin-left: -355px;
         display: flex;
         border-radius: 25px;
         background-color: rgb(139, 41, 132);
         margin-top: 1850px;
         height: 105px;
-        width: 340px;
+        width: 350px;
     }
     
     .T4{
         text-align: center;
-        width: 320px;
+        width: 340px;
         color: rgb(255, 255, 255);
         font-weight: bold;
         font-size: 22px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         margin-top: 10px;
-        margin-left: 12px;
+        margin-left: 8px;
     }
     
     .galeria4{
         display: flex;
         margin-top: 2000px;
-        margin-left: -351px;
+        margin-left: -354px;
         background-color: black;
         height: 415px;
-        width: 100%;
+        width: 360px;
     }
     
     
@@ -604,17 +604,18 @@ body{
     
     
     .conT5{
-        margin-left: -350px;
+        margin-left: -355px;
         display: flex;
         border-radius: 25px;
         background-color: rgb(139, 41, 132);
         margin-top: 2460px;
         height: 85px;
-        width: 340px;
+        width: 350px;
     }
     
     .T5{
         text-align: center;
+        width: 340px;
         color: rgb(255, 255, 255);
         font-weight: bold;
         font-size: 22px;
@@ -626,10 +627,10 @@ body{
     .galeria5{
         display: flex;
         margin-top: 2600px;
-        margin-left: -350px;
+        margin-left: -354px;
         background-color: black;
         height: 415px;
-        width: 100%;
+        width: 360px;
     }
     
     
@@ -664,9 +665,9 @@ body{
         display: flex;
         border-radius: 25px;
         background-color: rgb(139, 41, 132);
-        margin-top: 3060px;
+        margin-top: 3050px;
         height: 105px;
-        width: 349px;
+        width: 350px;
     }
     
     .T6{
@@ -677,13 +678,13 @@ body{
         font-size: 22px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         margin-top: 10px;
-        margin-left: 4px;
+        margin-left: 8px;
     }
     
     .galeria6{
         display: flex;
-        margin-top: 3210px;
-        margin-left: -353px;
+        margin-top: 3200px;
+        margin-left: -354px;
         background-color: black;
         height: 415px;
         width: 360px;
