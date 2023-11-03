@@ -4,19 +4,19 @@
     box-sizing: border-box
 }
 
-body{
+body {
     margin: 0;
     padding: 0;
 }
 
-.contenedor1{
+.contenedor1 {
     display: flex;
     background-color: cadetblue;
-    height: 1650px;
+    height: 1950px;
     width: 100%;
 }
 
-.conT1{
+.conT1 {
     margin-left: 120px;
     display: flex;
     border-radius: 25px;
@@ -26,7 +26,7 @@ body{
     width: 380px;
 }
 
-.T1{
+.T1 {
     color: azure;
     font-weight: bold;
     font-size: 24px;
@@ -35,7 +35,7 @@ body{
     margin-left: 28px;
 }
 
-.galeria{
+.galeria {
     display: flex;
     margin-top: 250px;
     margin-left: -500px;
@@ -46,7 +46,8 @@ body{
 
 
 
-.listaImagenesConenedorP1 img{
+.listaImagenesConenedorP1 img {
+    margin-left: 25px;
     margin-top: 15px;
     border-radius: 25px;
     width: 100%;
@@ -56,12 +57,12 @@ body{
     margin-right: 15px;
 }
 
-.listaImagenesConenedorP1{
+.listaImagenesConenedorP1 {
     display: flex;
     overflow-y: auto;
 }
 
-.conT2{
+.conT2 {
     margin-left: 120px;
     display: flex;
     border-radius: 25px;
@@ -72,7 +73,7 @@ body{
     width: 410px;
 }
 
-.T2{
+.T2 {
     color: azure;
     font-weight: bold;
     font-size: 24px;
@@ -81,7 +82,7 @@ body{
     margin-left: 28px;
 }
 
-.galeria2{
+.galeria2 {
     display: flex;
     margin-top: 760px;
     margin-left: -530px;
@@ -92,7 +93,8 @@ body{
 
 
 
-.listaImagenesConenedorP2 img{
+.listaImagenesConenedorP2 img {
+    margin-left: 25px;
     margin-top: 15px;
     border-radius: 25px;
     width: 100%;
@@ -102,12 +104,12 @@ body{
     margin-right: 15px;
 }
 
-.listaImagenesConenedorP2{
+.listaImagenesConenedorP2 {
     display: flex;
     overflow-y: auto;
 }
 
-.conT3{
+.conT3 {
     margin-left: 120px;
     display: flex;
     border-radius: 25px;
@@ -118,7 +120,7 @@ body{
     width: 345px;
 }
 
-.T3{
+.T3 {
     color: azure;
     font-weight: bold;
     font-size: 24px;
@@ -126,13 +128,62 @@ body{
     margin-top: 10px;
     margin-left: 28px;
 }
-.audiplay{
-    margin-top: 1570px;
-    margin-left: 100px;
+
+.galeria33 {
+    display: flex;
+    margin-top: 1260px;
+    margin-left: -465px;
+    background-color: black;
+    height: 415px;
+    width: 100%;
 }
 
 
-@media(max-width: 500px){
+
+.listaImagenesConenedorP33 img {
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: 25px;
+    width: 100%;
+    object-fit: cover;
+    width: 2000px;
+    height: 370px;
+    margin-right: 15px;
+}
+
+.listaImagenesConenedorP33 {
+    display: flex;
+    overflow-y: auto;
+}
+
+
+.conT4 {
+    margin-left: 120px;
+    display: flex;
+    border-radius: 25px;
+    background-color: crimson;
+    margin-top: 1200px;
+    margin-left: -1400px;
+    height: 50px;
+    width: 345px;
+}
+
+.T4 {
+    color: azure;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+    margin-left: 28px;
+}
+
+.audiplay {
+    margin-top: 1870px;
+    margin-left: 00px;
+}
+
+
+@media(max-width: 500px) {
 
 
     * {
@@ -140,21 +191,21 @@ body{
         padding: 0;
         box-sizing: border-box
     }
-    
-    body{
+
+    body {
         width: 360px;
         margin: 0;
         padding: 0;
     }
-    
-    .contenedor1{
+
+    .contenedor1 {
         display: flex;
         background-color: cadetblue;
-        height: 1650px;
+        height: 1750px;
         width: 360px;
     }
-    
-    .conT1{
+
+    .conT1 {
         margin-left: 20px;
         display: flex;
         border-radius: 25px;
@@ -163,8 +214,8 @@ body{
         height: 50px;
         width: 320px;
     }
-    
-    .T1{
+
+    .T1 {
         color: azure;
         font-weight: bold;
         font-size: 22px;
@@ -172,8 +223,8 @@ body{
         margin-top: 10px;
         margin-left: 28px;
     }
-    
-    .galeria{
+
+    .galeria {
         display: flex;
         margin-top: 100px;
         margin-left: -340px;
@@ -181,10 +232,10 @@ body{
         height: 415px;
         width: 360px;
     }
-    
-    
-    
-    .listaImagenesConenedorP1 img{
+
+
+
+    .listaImagenesConenedorP1 img {
         margin-top: 15px;
         border-radius: 25px;
         width: 100%;
@@ -193,13 +244,13 @@ body{
         height: 370px;
         margin-right: 15px;
     }
-    
-    .listaImagenesConenedorP1{
+
+    .listaImagenesConenedorP1 {
         display: flex;
         overflow-y: auto;
     }
-    
-    .conT2{
+
+    .conT2 {
         display: flex;
         border-radius: 25px;
         background-color: crimson;
@@ -208,8 +259,8 @@ body{
         height: 50px;
         width: 350px;
     }
-    
-    .T2{
+
+    .T2 {
         color: azure;
         font-weight: bold;
         font-size: 22px;
@@ -217,8 +268,8 @@ body{
         margin-top: 10px;
         margin-left: 28px;
     }
-    
-    .galeria2{
+
+    .galeria2 {
         display: flex;
         margin-top: 620px;
         margin-left: -355px;
@@ -226,10 +277,10 @@ body{
         height: 415px;
         width: 100%;
     }
-    
-    
-    
-    .listaImagenesConenedorP2 img{
+
+
+
+    .listaImagenesConenedorP2 img {
         margin-top: 15px;
         border-radius: 25px;
         width: 100%;
@@ -238,13 +289,59 @@ body{
         height: 370px;
         margin-right: 15px;
     }
-    
-    .listaImagenesConenedorP2{
+
+    .listaImagenesConenedorP2 {
         display: flex;
         overflow-y: auto;
     }
-    
-    .conT3{
+
+    .conT3 {
+        display: flex;
+        border-radius: 25px;
+        background-color: crimson;
+        margin-top: 545px;
+        margin-left: -355px;
+        height: 50px;
+        width: 350px;
+    }
+
+    .T3 {
+        color: azure;
+        font-weight: bold;
+        font-size: 22px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-top: 10px;
+        margin-left: 28px;
+    }
+
+    .galeria33 {
+        display: flex;
+        margin-top: 1160px;
+        margin-left: -355px;
+        background-color: black;
+        height: 415px;
+        width: 100%;
+    }
+
+
+
+    .listaImagenesConenedorP33 img {
+        margin-left: 15px;
+        margin-top: 15px;
+        border-radius: 25px;
+        width: 100%;
+        object-fit: cover;
+        width: 2000px;
+        height: 370px;
+        margin-right: 15px;
+    }
+
+    .listaImagenesConenedorP33 {
+        display: flex;
+        overflow-y: auto;
+    }
+
+    .conT4 {
         margin-left: 120px;
         display: flex;
         border-radius: 25px;
@@ -254,8 +351,8 @@ body{
         height: 50px;
         width: 330px;
     }
-    
-    .T3{
+
+    .T4 {
         color: azure;
         font-weight: bold;
         font-size: 22px;
@@ -266,8 +363,8 @@ body{
 
 
 
-    .audiplay{
-        margin-top: 1500px;
+    .audiplay {
+        margin-top: 1600px;
         margin-left: -315px;
     }
 }
